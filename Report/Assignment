@@ -48,8 +48,8 @@ Research question: How can unsupervised machine learning algorithms be used to p
 Subquestion: Under what conditions would a machine learning algorithm be favorable to perform customer segmentation as opposed to standard methods?
 Subquestion: what kind of marketing insights can we gain by finding latent groups?
 
-Mini thesis:
-Introduction        100
+Mini thesis:        WordsBudget   WordsReal  
+Introduction        200           (209)
 Data                200
 Methods             600
 Results             400
@@ -57,4 +57,4 @@ Conclusion          100
 Discussion 
   limitations       200
   further research  200
-***2000 words***    1800
+***2000 words***    2000
